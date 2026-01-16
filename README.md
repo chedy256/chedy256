@@ -57,7 +57,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chedy256&theme=codeSTACKr) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chedy256&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chedy256&theme=codeSTACKr)
 
-![GitHub Chart](https://ghchart.rshah.org/chedy256)
+![GitHub Chart](https://ghchart.rshah.org/EA5E2D/chedy256)
 
 
 ###
