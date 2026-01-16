@@ -1,10 +1,11 @@
 # Hi, I'm Chedy256 👋
 
-First-year Computer Science student passionate about Mobile Dev, DevOps, and Automation.
+
+<h4> First-year Computer Science student passionate about Mobile Dev, DevOps, and Automation. <h4/>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -23,8 +24,6 @@ First-year Computer Science student passionate about Mobile Dev, DevOps, and Aut
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/githubactions.svg" height="40" alt="GitHub Actions logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo"  />
@@ -39,18 +38,27 @@ First-year Computer Science student passionate about Mobile Dev, DevOps, and Aut
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  
   
 </div>
 
 ###
 
-💡 I’m passionate about continuous learning, adopting best practices, and delivering impactful, maintainable solutions that empower businesses and teams to succeed in fast-paced, data-driven environments.
+<h4>I’m passionate about continuous learning, adopting best practices, and delivering impactful, maintainable solutions that empower businesses and teams to succeed in fast-paced, data-driven environments.
+</h4>
+
+  
+## **My GitHub Stats:**
+
+![](https://komarev.com/ghpvc/?username=chedy256&color=red)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chedy256&theme=codeSTACKr) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chedy256&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chedy256&theme=codeSTACKr)
+
+![GitHub Chart](https://ghchart.rshah.org/chedy256)
+
 
 ###
 
@@ -61,24 +69,12 @@ First-year Computer Science student passionate about Mobile Dev, DevOps, and Aut
   <a href="https://www.linkedin.com/in/chedy-amine-el-haj-3a6ab3317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="chedyelhaj@gmail.com" target="_blank">
+  <a href="mailto:elhajchedyamine@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
-  
-📈 **My GitHub Stats:**
-
-![](https://komarev.com/ghpvc/?username=chedy256&color=red)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chedy256&theme=codeSTACKr) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chedy256&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chedy256&theme=codeSTACKr)
-
-![GitHub Chart](https://ghchart.rshah.org/chedy256)
-
-
-
 <!--
 **chedy256/chedy256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
