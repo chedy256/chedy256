@@ -1,7 +1,7 @@
 # Hi, I'm Chedy256 👋
 
 
-<h4> First-year Computer Science student passionate about Mobile Dev, DevOps, and Automation. <h4/>
+<h4> Second-year Computer Science student passionate about Mobile Dev, DevOps, and Automation. <h4/>
 
 ###
 
